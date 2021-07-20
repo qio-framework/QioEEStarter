@@ -3,7 +3,7 @@
 Qio Starter is a starter project for Qio based projects.
 
 Qio is a full fledged Web Framework. For more details 
-visit www.qio.j2ee.dev.
+visit www.qioframework.io.
 
 To Run the project : 
 `git clone https://github.com/mcroteau/QioStarter.git`

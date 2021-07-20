@@ -1,0 +1,13 @@
+*.classpath
+*.project
+*.settings
+*.db
+*.idea
+*.iml
+*.properties
+*.asc
+*.DS_Store
+*drop-db.sql
+output
+target
+

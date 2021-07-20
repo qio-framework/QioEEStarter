@@ -1,0 +1,5 @@
+### Db Settings ###
+db.url=jdbc:h2:tcp://localhost:9092/~/.Starter/db
+db.driver=org.h2.Driver
+db.user=sa
+db.pass=

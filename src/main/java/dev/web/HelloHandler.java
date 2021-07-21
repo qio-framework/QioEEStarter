@@ -22,7 +22,7 @@ public class HelloHandler {
                      HttpServletResponse response,
                      ResponseData data){
         Map<String, String> output = new HashMap<>();
-        output.put("j2ee", "is the best! thank you sun, oracle, mysql and h2!");
+        output.put("message", "java is great! thank you sun, oracle, mysql and h2!");
         return gson.toJson(output);
     }
 

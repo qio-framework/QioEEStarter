@@ -22,7 +22,8 @@ public class HelloHandler {
                      HttpServletResponse response,
                      ResponseData data){
         Map<String, String> output = new HashMap<>();
-        output.put("message", "java is great! thank you sun, oracle, mysql and h2!");
+        output.put("message", "java is great! thank you sun, " +
+                "oracle, mysql, h2 and grails!");
         return gson.toJson(output);
     }
 

@@ -11,7 +11,7 @@
         <dependency>
             <groupId>dev.j2ee</groupId>
             <artifactId>qio</artifactId>
-            <version>0.1-SNAPSHOT</version>
+            <version>0.3</version>
         </dependency>
         <dependency>
             <groupId>javax.servlet</groupId>

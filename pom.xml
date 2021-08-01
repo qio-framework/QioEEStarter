@@ -47,6 +47,9 @@
                 <version>9.4.20.v20190813</version>
 
                 <configuration>
+                    <httpConnector>
+                        <port>3000</port>
+                    </httpConnector>
                     <webApp>
                         <contextPath>/q</contextPath>
                     </webApp>

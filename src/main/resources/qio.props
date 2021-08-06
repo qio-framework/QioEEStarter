@@ -1,3 +1,8 @@
+### Qio Settings ###
+qio.dev=true
+qio.assets=assets
+qio.properties=qio.props
+
 ### Db Settings ###
 db.url=jdbc:h2:~/.qio-starter
 db.driver=org.h2.Driver

@@ -1,5 +1,5 @@
 ### Qio Settings ###
-qio.dev=true
+qio.env=create
 qio.assets=assets
 qio.properties=this
 
